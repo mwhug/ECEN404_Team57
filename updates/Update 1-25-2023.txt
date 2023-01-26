@@ -1,1 +1,4 @@
 update
+
+
+Mary: I am building our deep learning model that will be used this semester. I am also troubleshooting the AWS issues from last semester one small step at a time, so I am currently figuring out how to deploy the model using AWS. (This may change, currently waiting to find out from our sponsor if deployment using AWS is a hard requirement)
