@@ -1,4 +1,5 @@
-update
-
+Updates:
 
 Mary: I am building our deep learning model that will be used this semester. I am also troubleshooting the AWS issues from last semester one small step at a time, so I am currently figuring out how to deploy the model using AWS. (This may change, currently waiting to find out from our sponsor if deployment using AWS is a hard requirement)
+
+Samuel: I am adding the database that will be used to store input images and prediction results. I also am working on possibly transitioning our website to whatever cloud platform the sponsor wants, as it is currently on Heroku, but could possibly be changed to AWS.
