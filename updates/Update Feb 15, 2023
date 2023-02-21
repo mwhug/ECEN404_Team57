@@ -1,0 +1,2 @@
+Mary's updates: currently working on the backend. I have a flask app that I'm finishing up, and then I'll be deploying into AWS Lambda using zappa. Once that is complete,
+I can create an API with API Gateway that will be the connection between the UI and the model for predictions.
