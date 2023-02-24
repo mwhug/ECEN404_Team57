@@ -1,0 +1,11 @@
+{
+    "'dev'": {
+        "app_function": "predictions.app",
+        "profile_name": "soybeans",
+        "project_name": "capstoneproject",
+        "runtime": "python3.9",
+        "s3_bucket": "flasksoybeanpredictor404",
+        "aws_region": "us-east-1",
+        "slim_handler": true
+    }
+}
